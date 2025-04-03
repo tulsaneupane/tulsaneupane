@@ -5,7 +5,7 @@
 - 🌱 **Currently Learning:** Java, along with expanding my knowledge of modern web development frameworks.  
 - 💞️ **Collaboration:** I’m open to collaborating on innovative web and software development projects.  
 - 📫 **Contact Me:** Reach out to me at **[tulsaneupane@example.com](mailto:tulsaneupane@example.com)** or connect with me on GitHub [@tulsaneupane](https://github.com/tulsaneupane).  
-- 😄 **Pronouns:** He/Him  
+- 😄 **Pronouns:** she/her  
 - ⚡ **Fun Fact:** I love debugging complex code and finding elegant solutions to challenging problems.  
 
 ### Skills and Expertise:  
